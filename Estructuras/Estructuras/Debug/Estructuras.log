@@ -1,0 +1,4 @@
+﻿  Estructuras.cpp
+c:\users\daniel\documents\compugrafica\laboratorio\proyectos_visualstudio\proyectografica\estructuras\estructuras\estructuras.cpp(355): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\daniel\documents\compugrafica\laboratorio\proyectos_visualstudio\proyectografica\estructuras\estructuras\estructuras.cpp(362): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Estructuras.vcxproj -> C:\Users\Daniel\Documents\CompuGrafica\Laboratorio\Proyectos_VisualStudio\ProyectoGrafica\Estructuras\Debug\Estructuras.exe
